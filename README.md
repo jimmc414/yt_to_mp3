@@ -61,4 +61,6 @@ python yt_to_mp3.py
 
 When prompted, enter the URL of the YouTube video you want to download the audio from. The program will download the audio and save it as an MP3 file in the same directory.
 
+![image](https://github.com/jimmc414/yt_to_mp3/assets/6346529/f3f8a001-791c-4148-b2b5-f99f5944ade4)
+
 Please ensure that you have the necessary permissions to download and use the content from YouTube videos, as unauthorized downloading or use may infringe on the rights of the content owner.
