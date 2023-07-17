@@ -55,10 +55,9 @@ sudo apt install ffmpeg
 To run the program, navigate to the directory containing the Python script in a Command Prompt or Terminal window, then enter the following command:
 
 ```bash
-python script_name.py
+python yt_to_mp3.py
 ```
 
-Replace `script_name.py` with the name of the Python script.
 
 When prompted, enter the URL of the YouTube video you want to download the audio from. The program will download the audio and save it as an MP3 file in the same directory.
 
